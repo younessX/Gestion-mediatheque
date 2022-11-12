@@ -11,5 +11,9 @@ la manière de compiler le programme :
   mot de passe: said
 ------------------------------------------
 <img src="project_images\picture1.png">
+------------------------------------------
+
+pour plus d'information:
+[capture d'écrants](../project_images)
 
 
