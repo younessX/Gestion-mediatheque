@@ -9,5 +9,7 @@ la manière de compiler le programme :
  * pour tester l'application connectez avec le compte suivant
   email:  saidElkafhali@gmail.com
   mot de passe: said
+------------------------------------------
+<img src="project_images\picture1.png">
 
 
