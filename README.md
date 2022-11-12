@@ -14,6 +14,6 @@ la manière de compiler le programme :
 
 ----------------------------------------------
 pour plus d'information:
-[capture d'écrants](Gestion-mediatheque/tree/main/project_images)
+[capture d'écrants](https://github.com/younessX/Gestion-mediatheque/tree/main/project_images)
 
 
