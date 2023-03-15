@@ -13,7 +13,7 @@ la manière de compiler le programme :
 <img src="project_images\picture1.png" width="90%">
 
 <img src="project_images\picture3.png" width="90%">
-------------------------------------------
+
 pour plus d'information:
 [capture d'écrants](https://github.com/younessX/Gestion-mediatheque/tree/main/project_images)
 
