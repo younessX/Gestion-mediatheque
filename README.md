@@ -10,11 +10,10 @@ la manière de compiler le programme :
   email:  saidElkafhali@gmail.com
   mot de passe: said
 ------------------------------------------
-<img src="project_images\picture1.png">
+<img src="project_images\picture1.png" width="90%">
 
-<img src="project_images\picture3.png">
+<img src="project_images\picture3.png" width="90%">
 ----------------------------------------------
-pour plus d'information:
-[capture d'écrants](https://github.com/younessX/Gestion-mediatheque/tree/main/project_images)
+pour plus d'information:[capture d'écrants](https://github.com/younessX/Gestion-mediatheque/tree/main/project_images)
 
 
