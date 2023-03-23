@@ -1,14 +1,24 @@
-Projet : Gestion d'une médiathèque
-----------------------------------
+# Projet: Gestion d'une médiathèque
 
-------------------------------------------
-la manière de compiler le programme :
-------------------------------------------
- * Commencer par importer la base de données dans phpMyAdmin (Créer une base de donnée puis cliquer sur importer et choisir le fichier mediatheque.sql existant dans le dossier code).
- * Importer le projet dans Eclipse est Build tous les jars qui se trouvent  dans le dossier Lib
- * pour tester l'application connectez avec le compte suivant
-  email:  saidElkafhali@gmail.com
-  mot de passe: said
+Ce projet consiste en la réalisation d'un système de gestion pour une médiathèque.
+
+## Compilation et exécution du programme
+
+Suivez ces étapes pour compiler et exécuter le programme :
+
+1. Importez la base de données dans phpMyAdmin :
+   - Créez une base de données
+   - Cliquez sur "Importer" et choisissez le fichier `mediatheque.sql` existant dans le dossier `code`
+
+2. Importez le projet dans Eclipse et construisez tous les jars se trouvant dans le dossier `Lib`
+
+## Test de l'application
+
+Pour tester l'application, connectez-vous avec le compte suivant :
+
+- Email : saidElkafhali@gmail.com
+- Mot de passe : said
+
 ------------------------------------------
 <img src="project_images\picture1.png" width="90%">
 
